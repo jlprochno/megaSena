@@ -1,0 +1,14 @@
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\megaSena\obj\Debug\net8.0\megaSena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\megaSena\obj\Debug\net8.0\megaSena.AssemblyInfoInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\megaSena\obj\Debug\net8.0\megaSena.AssemblyInfo.cs
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\megaSena\obj\Debug\net8.0\megaSena.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\megaSena\bin\Debug\net8.0\megaSena.exe
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\megaSena\bin\Debug\net8.0\megaSena.deps.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\megaSena\bin\Debug\net8.0\megaSena.runtimeconfig.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\megaSena\bin\Debug\net8.0\megaSena.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\megaSena\bin\Debug\net8.0\megaSena.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\megaSena\obj\Debug\net8.0\megaSena.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\megaSena\obj\Debug\net8.0\refint\megaSena.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\megaSena\obj\Debug\net8.0\megaSena.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\megaSena\obj\Debug\net8.0\megaSena.genruntimeconfig.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\megaSena\obj\Debug\net8.0\ref\megaSena.dll
